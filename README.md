@@ -1,2 +1,6 @@
-# Cpp
-This is for C++ class CS310 for Bellevue Uni
+# CS 310 C++
+
+## Contributors
+
+- Instructor: Robert Flowers
+- Chris P
